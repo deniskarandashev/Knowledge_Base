@@ -5,7 +5,7 @@
 
 ---
 
-## Модуль 1. Основы JavaScript
+## [Модуль 1. Основы JavaScript](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-01-basics.md)
 
 - Переменные: `let`, `const`, `var` — различия и подводные камни
 - 🎯 Hoisting — подъём объявлений
@@ -16,7 +16,7 @@
 - Truthy / Falsy значения
 - Strict mode
 
-## Модуль 2. Функции
+## [Модуль 2. Функции](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-02-functions.md)
 
 - Три способа создать функцию: declaration, expression, arrow
 - Области видимости и лексическое окружение
@@ -27,7 +27,7 @@
 - IIFE и Module Pattern
 - Higher-order functions, мемоизация
 
-## Модуль 3. Объекты
+## [Модуль 3. Объекты](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-03-objects.md)
 
 - Объекты: создание, свойства, вычисляемые ключи, shorthand
 - 🎯 Ссылки vs значения: примитивы и объекты
@@ -40,7 +40,7 @@
 - Геттеры и сеттеры
 - `Symbol`, итераторы, `Symbol.iterator`
 
-## Модуль 4. Классы
+## [Модуль 4. Классы](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-04-classes.md)
 
 - Синтаксис классов ES6+: `class`, `constructor`, методы
 - 🎯 Классы как синтаксический сахар над прототипами
@@ -51,7 +51,7 @@
 - Mixins — альтернатива множественному наследованию
 - 🔗 Классы в Angular: компоненты, сервисы, DI, декораторы
 
-## Модуль 5. Структуры данных
+## [Модуль 5. Структуры данных](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-05-data-structures.md)
 
 - Массивы: полный обзор методов (мутирующие vs иммутабельные)
 - 🎯 Деструктуризация массивов и объектов
@@ -64,7 +64,7 @@
 - `Date` и `Intl` (основы)
 - 🆕 Иммутабельные методы: `toSorted`, `toReversed`, `Object.groupBy`
 
-## Модуль 6. Асинхронность
+## [Модуль 6. Асинхронность](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-06-async.md)
 
 - Однопоточность JavaScript — почему это не проблема
 - 🎯🎯🎯 Event Loop — macrotasks, microtasks, очереди
@@ -78,7 +78,7 @@
 - `AbortController` и `AbortSignal.timeout`
 - 🔗 От Promise к Observable (мост в Angular/RxJS)
 
-## Модуль 7. Модули и сборка
+## [Модуль 7. Модули и сборка](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-07-modules.md)
 
 - Эволюция модульности: IIFE → CommonJS → AMD → ESM
 - 🎯 ES Modules: `import`/`export`, named vs default
@@ -91,7 +91,7 @@
 - 🔗 Современный Angular build system: application builder, esbuild
 - Lazy loading в Angular: `loadComponent` / standalone routes
 
-## Модуль 8. Браузер и DOM
+## [Модуль 8. Браузер и DOM](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-08-browser-dom.md)
 
 - Браузерное окружение: `window`, `document`, `navigator`
 - DOM-дерево: узлы, типы, навигация (`children` vs `childNodes`)
@@ -107,7 +107,7 @@
 - Shadow DOM и `composedPath()`
 - `MutationObserver`, `IntersectionObserver`, `ResizeObserver`
 
-## Модуль 9. Сетевые запросы и хранение данных
+## [Модуль 9. Сетевые запросы и хранение данных](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-09-network-storage.md)
 
 - 🎯 Fetch API: `fetch()`, `Request`, `Response`, `Headers`
 - 🎯 CORS: Same-Origin Policy, preflight, simple requests
@@ -123,7 +123,7 @@
 - 🛠️ DevTools Network tab: диагностика CORS, preflight, cookies
 - 🔗 Angular `HttpClient` и functional interceptors
 
-## Модуль 10. JavaScript в контексте Angular
+## [Модуль 10. JavaScript в контексте Angular](https://github.com/deniskarandashev/Knowledge_Base/blob/main/js/module-10-angular-context.md)
 
 - Зачем Angular-разработчику глубокий JavaScript
 - TypeScript как надмножество JS
